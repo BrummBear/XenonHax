@@ -1,0 +1,13 @@
+<!-- <?xml version="1.0" encoding="utf-8"?>-->
+<diff>
+  <add sel="//soundlibrary">
+    <sound id="xenonhax_gun_shoot" description="xenonhax_gun" repeat="1" is3d="1" preload="1" >
+        <sample selection="random">
+          <select start="extensions\xenonhax_gun\sfx\xenonhax_gun_01"/>
+          <select start="extensions\xenonhax_gun\sfx\xenonhax_gun_02"/>
+        <select start="extensions\xenonhax_gun\sfx\xenonhax_gun_03"/>
+        </sample>
+        <volume start="0.9" distance="7"/>
+    </sound> 
+	</add>
+</diff>

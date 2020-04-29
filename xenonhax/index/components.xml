@@ -4,5 +4,8 @@
 	<add sel = '/index' >
 		<entry name="xenonhax_ship" value="extensions\xenonhax\assets\units\size_s\xenonhax_ship" />
 		<entry name="xenonhax_gun" value="extensions\xenonhax\assets\props\WeaponSystems\energy\xenonhax_gun" />
+		<entry name="xenonhax_gun_bullet" value="extensions\xenonhax\assets\fx\weaponFx\xenonhax_gun_bullet"/>
+		<entry name="xenonhax_gun_impact" value="extensions\xenonhax\assets\fx\weaponFx\xenonhax_gun_impact"/>
+		<entry name="xenonhax_gun_muzzle" value="extensions\xenonhax\assets\fx\weaponFx\xenonhax_gun_muzzle"/>
 	</add>
 </diff>
